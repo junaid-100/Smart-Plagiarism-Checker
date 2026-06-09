@@ -1,0 +1,3 @@
+Cloud computing provides on demand computing resources over the internet.
+Virtual machines and distributed systems are widely used in cloud environments.
+Organizations use cloud services for storage, networking and security.

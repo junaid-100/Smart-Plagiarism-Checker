@@ -1,0 +1,5 @@
+Data structures and algorithms are fundamental concepts in computer science.
+They help programmers solve complex problems efficiently.
+Understanding data structures improves memory management and program performance.
+Algorithms provide step by step procedures to solve computational problems.
+Students learn these concepts to develop efficient software systems.
